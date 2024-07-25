@@ -8,7 +8,7 @@
 
 Game::Game()
 {
-
+	// 기능 추가!
 }
 
 Game::~Game()
